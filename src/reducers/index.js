@@ -1,6 +1,6 @@
-import { combinerReducers } from 'redux;'
+import { combineReducers } from 'redux';
 import { todos } from './todos';
 
-export const reducers = combinerReducers({
+export const reducers = combineReducers({
     todoState: todos,
 });
