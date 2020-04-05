@@ -1,7 +1,5 @@
 const initialState = {
-    todoList: [
-        'atualizado via redux!'
-    ]
+    todoList: []
 }
 
 export const todos = (state = initialState, action) => {
