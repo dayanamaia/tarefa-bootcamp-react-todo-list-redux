@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tarefa-bootcamp-react-todo-list-redux/static/css/main.b9caf51e.chunk.css",
+    "main.js": "/tarefa-bootcamp-react-todo-list-redux/static/js/main.2fb6ada6.chunk.js",
+    "main.js.map": "/tarefa-bootcamp-react-todo-list-redux/static/js/main.2fb6ada6.chunk.js.map",
+    "runtime-main.js": "/tarefa-bootcamp-react-todo-list-redux/static/js/runtime-main.8b7e5590.js",
+    "runtime-main.js.map": "/tarefa-bootcamp-react-todo-list-redux/static/js/runtime-main.8b7e5590.js.map",
+    "static/css/2.d788185a.chunk.css": "/tarefa-bootcamp-react-todo-list-redux/static/css/2.d788185a.chunk.css",
+    "static/js/2.60aebda6.chunk.js": "/tarefa-bootcamp-react-todo-list-redux/static/js/2.60aebda6.chunk.js",
+    "static/js/2.60aebda6.chunk.js.map": "/tarefa-bootcamp-react-todo-list-redux/static/js/2.60aebda6.chunk.js.map",
+    "index.html": "/tarefa-bootcamp-react-todo-list-redux/index.html",
+    "precache-manifest.6c24bc60312b549fcd423b864b53e52e.js": "/tarefa-bootcamp-react-todo-list-redux/precache-manifest.6c24bc60312b549fcd423b864b53e52e.js",
+    "service-worker.js": "/tarefa-bootcamp-react-todo-list-redux/service-worker.js",
+    "static/css/2.d788185a.chunk.css.map": "/tarefa-bootcamp-react-todo-list-redux/static/css/2.d788185a.chunk.css.map",
+    "static/css/main.b9caf51e.chunk.css.map": "/tarefa-bootcamp-react-todo-list-redux/static/css/main.b9caf51e.chunk.css.map",
+    "static/js/2.60aebda6.chunk.js.LICENSE.txt": "/tarefa-bootcamp-react-todo-list-redux/static/js/2.60aebda6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b7e5590.js",
+    "static/css/2.d788185a.chunk.css",
+    "static/js/2.60aebda6.chunk.js",
+    "static/css/main.b9caf51e.chunk.css",
+    "static/js/main.2fb6ada6.chunk.js"
+  ]
+}
